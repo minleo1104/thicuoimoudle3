@@ -1,0 +1,8 @@
+{
+    "categories": [
+        { "id": 1, "name": "Thực phẩm chức năng", "description": "Các sản phẩm bổ sung dinh dưỡng." },
+        { "id": 2, "name": "Thuốc", "description": "Các loại thuốc kê đơn và không kê đơn." },
+        { "id": 3, "name": "Dược phẩm", "description": "Các sản phẩm hỗ trợ điều trị bệnh." }
+    ],
+    "products": []
+}
